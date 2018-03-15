@@ -13,3 +13,4 @@ A repository to store all the good stuff I find around the web :flashlight:
 02. [Studying WebSocket](2018/march/02.md)
 05. [Studying WebSocket II | Check](2018/march/05.md)
 13. [My Ideas Repo | Voice API | Spring resources | Thoughts about CRUD](2018/march/13.md)
+15. [Strapi Examples | UI Chart](2018/march/15.md)
